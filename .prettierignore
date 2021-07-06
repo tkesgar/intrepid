@@ -1,0 +1,7 @@
+.husky/
+.next/
+coverage/
+.eslintignore
+.nvmrc
+.prettierignore
+.stylelintignore
