@@ -1,6 +1,7 @@
 .husky/
 .next/
 coverage/
+*.snap
 .eslintignore
 .nvmrc
 .prettierignore

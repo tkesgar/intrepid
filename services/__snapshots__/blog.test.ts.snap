@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getPost should return the post data 1`] = `
+Object {
+  "content": "# Hello world!
+
+It works!
+",
+  "date": 2021-07-08T14:56:39.000Z,
+  "hidden": true,
+  "slug": "test-post",
+  "title": "Test Post",
+}
+`;
